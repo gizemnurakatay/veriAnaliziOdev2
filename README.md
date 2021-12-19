@@ -16,6 +16,7 @@
 
 **Soru 2 Big-O gösterimi**
 
-
+```
 Bölerek gittiği için 2^x=n => x=logn ve her satırdan n 
 Big-O = O(nlogn)
+´´´
