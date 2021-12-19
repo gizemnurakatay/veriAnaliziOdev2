@@ -13,7 +13,8 @@
 
 ´´´
 <br>
-
+<hr>
+<br>
 
 **Soru 2 Big-O gösterimi**
 
